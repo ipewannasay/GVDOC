@@ -1,0 +1,22 @@
+{
+  "name": "gvdoc",
+  "version": "0.0.0",
+  "description": "Uncharted Waters Online Documentation",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server --open=index.htm --browser=chrome --port=36363"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ipewannasay/GVDOC.git"
+  },
+  "author": "ipewannasay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ipewannasay/GVDOC/issues"
+  },
+  "homepage": "https://github.com/ipewannasay/GVDOC#readme",
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  }
+}
